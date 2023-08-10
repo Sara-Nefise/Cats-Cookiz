@@ -33,7 +33,14 @@
     "swagger": "^0.7.5",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0", 
+    "cookie-signature": "^1.1.0",
+    "encrypt-cookie": "^1.1.5",
+    "jsonwebtoken": "^8.5.1",
+    "monkeypatch": "^1.0.0",
+    "nodemon": "^2.0.14",
+    "prettier": "^2.4.1",
+    "supertest": "^6.3.3"
   },
   "devDependencies": {
     "cookie-signature": "^1.1.0",
